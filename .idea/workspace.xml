@@ -23,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Wang-Phil"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:/Wang-Phil/AI_Storage.git",
+    "accountId": "c9f929de-3ad1-408b-bd09-b4d43851590a"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -52,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.AiStorageApplication (1).executor": "Run",
     "Spring Boot.AiStorageApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "22",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/project/java/AI_Storage",
@@ -119,7 +131,7 @@
       <workItem from="1716406924815" duration="272000" />
       <workItem from="1716407215625" duration="723000" />
       <workItem from="1716414924672" duration="757000" />
-      <workItem from="1716415969331" duration="30000" />
+      <workItem from="1716415969331" duration="749000" />
     </task>
     <task id="LOCAL-00001" summary="开源之夏的项目">
       <option name="closed" value="true" />
@@ -129,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716414967445</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="开源之夏的项目">
+      <option name="closed" value="true" />
+      <created>1716416271961</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716416271961</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
